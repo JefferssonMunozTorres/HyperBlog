@@ -5,3 +5,5 @@ El tiene 24 años y nacio en Peru.
 Esta es su historia.
 
 Actualmente estudia en Platzi.
+
+Ahora esta cursando el curso de Git & GitHub.
