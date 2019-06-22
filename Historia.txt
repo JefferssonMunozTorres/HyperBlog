@@ -1,11 +1,9 @@
-﻿Esta es la historia de Jefferson Muñoz.
+Esta es la historia de Jefferson Muñoz.
 
 El tiene 24 años y nacio en Peru.
 
-Esta es su vida y obra maestra.
+Esta es su historia.
 
 Actualmente estudia en Platzi.
 
 Ahora esta cursando el curso de Git & GitHub.
-
-El esta muy entusiasmado.
